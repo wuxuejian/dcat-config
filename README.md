@@ -1,3 +1,6 @@
+# 在 ghost/dcat-config基础上改进了一些个人使用的功能
+感谢原项目作者
+
 # Dcat Admin Extension
 
 ![](https://ghost-ai.com/images/original/file/16171727904222427.png "")
