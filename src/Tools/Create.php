@@ -1,6 +1,6 @@
 <?php
 
-namespace Ghost\DcatConfig\Tools;
+namespace Wuxuejian\DcatConfig\Tools;
 
 use Dcat\Admin\Form\AbstractTool;
 
