@@ -180,6 +180,6 @@ class DcatConfigController extends Controller
             $data[$key][$item]['name'] = $v['name'];
         }
 
-        return view('ghost.dcat-config::tree', ['data' => $data]);
+        return view('wuxuejian.dcat-config::tree', ['data' => $data]);
     }
 }
