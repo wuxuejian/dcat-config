@@ -2,6 +2,9 @@
 
 return [
     'title' => '配置',
+    'tab'   =>'模块',
+    'key'   =>'键',
+    'value' =>'值',
     'description' => '配置管理可以复写系统配置',
     'grid' => [
         'key' => '使用方法',

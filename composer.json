@@ -2,6 +2,7 @@
     "name": "wuxuejian/dcat-config",
     "description": "配置管理",
     "type": "library",
+    "alias": "配置管理",
     "keywords": ["dcat-admin", "extension"],
     "homepage": "https://github.com/wuxuejian/dcat-config",
     "license": "MIT",
